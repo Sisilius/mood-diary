@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Дневник настроения">
+  <rect width="192" height="192" rx="46" fill="#FDE8EC"/>
+  <path
+    d="M96 151s-56-33-56-71c0-17 13-30 30-30 11 0 20 6 26 15 6-9 15-15 26-15 17 0 30 13 30 30 0 38-56 71-56 71z"
+    fill="#E78A9B"
+  />
+  <path d="M70 77c4-6 11-9 17-8" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".65" fill="none"/>
+</svg>
