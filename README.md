@@ -3,6 +3,9 @@
 Маленькое личное приложение для отслеживания настроения: один экран на день, пять смайликов,
 отметка «плакала / нет», поле для триггеров и поле для хорошего. Плюс календарь и график динамики.
 
+**Живая версия:** https://sisilius.github.io/mood-diary/  
+**Репозиторий:** https://github.com/Sisilius/mood-diary
+
 - **Фронтенд:** React + TypeScript + Vite (статика)
 - **Бэкенд:** Supabase (Auth + Postgres с RLS)
 - **Хостинг:** GitHub Pages через GitHub Actions
@@ -57,7 +60,7 @@ Supabase присылает ссылку, которая возвращает н
 **Authentication → URL Configuration → Redirect URLs**:
 
 - `http://localhost:5173/` — для разработки,
-- `https://<твой-логин>.github.io/<репозиторий>/` — для продакшена (именно с `/` на конце).
+- `https://sisilius.github.io/mood-diary/` — для продакшена (именно с `/` на конце).
 
 ## Деплой на GitHub Pages
 
